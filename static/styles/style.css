@@ -1,0 +1,8 @@
+#mapid 
+{
+    height: 800px;
+}
+
+.leaflet-popup-content {
+    width: auto !important;
+  }
